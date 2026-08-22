@@ -10,6 +10,7 @@ public :
         next = NULL;
     }
 };
+
 class List {
     Node* Head;
     Node* Tail;
