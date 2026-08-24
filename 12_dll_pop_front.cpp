@@ -12,6 +12,7 @@ public:
     }
 
 };
+
 class DoublyList{
     Node* head;
     Node* tail;
