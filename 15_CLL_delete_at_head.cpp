@@ -10,6 +10,7 @@ public:
         next = NULL;
     }
 };
+
 class CircularList{
     Node* head;
     Node* tail;
